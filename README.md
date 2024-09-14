@@ -3,9 +3,9 @@
 
 
 Sobre mi
-- 🔭 Actualmente estoy trabajando en SPA's enfocadas al E-commerce
-- 🌱 Estudiando FRONT END orientado al mantenimiento y mejora de la UI
-- 👯 Colaboro con otros programadores para crecer profesionalmente
+- 🔭 Actualmente estoy trabajando en SPA's y enfocandome al E-commerce
+- 🌱 Estoy realizando un curso de FRONT END puedes ver que mis repositorios publicos corresponden al mismo
+- 👯 Colaboro con otros programadores para aprender y crecer profesionalmente
 <!--
 **Leotechcoder/Leotechcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
