@@ -1,5 +1,10 @@
-## Hi, soy Leotechcoder 👋
+<div> <h1 align = center> Hi, soy Leotechcoder 👋</h1></div>
+<img align = end width= 90% src="https://www.acuvue.es/sites/acuvue_es/files/styles/jjbos_adaptive_images_generic-mobile/public/taco-images/dryeye-effects_0.png?timestamp=1561939920" alt="imagen de fondo">
 
+Sobre mi
+- 🔭 Actualmente estoy trabajando en SPA's enfocadas al E-commerce
+- 🌱 Estudiando FRONT END orientado al mantenimiento y mejora de la UI
+- 👯 Colaboro con otros programadores para crecer profesionalmente
 <!--
 **Leotechcoder/Leotechcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<main>
-        <h1 id="h1">LeoTechCoder</h1>
-        <h2>Desarrollador Web</h2>
-        <section id="tone">
-           <img src="file:///C:/Users/Leo/Desktop/primeraimagen.png" alt="">
-        </section>
+
+
         
-    </main>
+        
+    
