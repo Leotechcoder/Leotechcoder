@@ -1,5 +1,6 @@
 <div> <h1 align = center> Hi, soy Leotechcoder 👋</h1></div>
-<img align = end width= 90% src="https://www.acuvue.es/sites/acuvue_es/files/styles/jjbos_adaptive_images_generic-mobile/public/taco-images/dryeye-effects_0.png?timestamp=1561939920" alt="imagen de fondo">
+<div align= center><img  height = 300px  width= 70% src="https://www.acuvue.es/sites/acuvue_es/files/styles/jjbos_adaptive_images_generic-mobile/public/taco-images/dryeye-effects_0.png?timestamp=1561939920" alt="imagen de fondo"></div>
+
 
 Sobre mi
 - 🔭 Actualmente estoy trabajando en SPA's enfocadas al E-commerce
