@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, soy Leotechcoder 👋
 
 <!--
 **Leotechcoder/Leotechcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<main>
+        <h1 id="h1">LeoTechCoder</h1>
+        <h2>Desarrollador Web</h2>
+        <section id="tone">
+           <img src="file:///C:/Users/Leo/Desktop/primeraimagen.png" alt="">
+        </section>
+        
+    </main>
