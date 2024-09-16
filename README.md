@@ -4,7 +4,7 @@
 
 Sobre mi
 
-Soy un Desarrollador Web Junior con gran potencial y una gran capacidad para aprender rápidamente. Mi pasion por escribir codigo comenzo de la mano de automatizar circuitos con C++ en 2022. Y a mediados del 2024 comence a programar con JS, realizando mis primeras paginas estaticas maquetando con html y css. Mi pasion y objetivo es contribuir con codigo limpio y puro para la comunidad. Estoy abierto a escuchar opiniones y tambien a colaborar activamente. Si buscas a alguien para algun proyeco desafiante y que aporte energía y dedicación, ¡contactame!
+Soy un Desarrollador Web Junior con gran potencial y una gran capacidad para aprender rápidamente. Mi pasion por escribir codigo comenzo de la mano de automatizar circuitos con C++ en 2022. Y a mediados del 2024 comence a programar con Javascript, realizando mis primeras paginas estaticas maquetando con HTML y CSS. Mi pasion y objetivo es contribuir con codigo limpio y puro para la comunidad. Estoy abierto a escuchar opiniones y tambien a colaborar activamente. Si buscas a alguien para algun proyeco desafiante y que aporte energía y dedicación, ¡contactame!
 
 - 🔭 Actualmente estoy enfocandome al E-commerce y al control de existencias
 - 🌱 Estoy realizando un curso de FRONT END, puedes ver que mis repositorios publicos corresponden al mismo
