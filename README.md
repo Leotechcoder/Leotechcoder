@@ -1,4 +1,4 @@
-<div> <h1 align = center> Hi, soy Leotechcoder 👋</h1><h2 align = center>Desarrollador Web</h2></div>
+<div> <h1 align = center> Hola, soy Leotechcoder 👋</h1><h2 align = center>Desarrollador Web</h2></div>
 <div align= center><img  height = 250px  width= 70% src="https://www.acuvue.es/sites/acuvue_es/files/styles/jjbos_adaptive_images_generic-mobile/public/taco-images/dryeye-effects_0.png?timestamp=1561939920" alt="imagen de fondo"></div>
 
 
