@@ -14,8 +14,8 @@ Este es un resumen de lo que encontraras en mi repositorio:
 - 📫 Proyecto backend Node y Express para levantar un servidor
 - 🌱 Patron de diseño MVC con Clases JS
 - 👯 Autenticacion manual, mediante Google y Facebook
-- 😄 Control de ordenes, ventas y stock
-- ⚡ En criollo e-commerce desde el frontend con control de administrador desde el backend
+- ⚡ Control de usuarios, ordenes de venta y stock de productos
+- 😄 En criollo e-commerce desde el frontend con control de administrador desde el backend
 
 AQUI ABAJO !!
 <!--
