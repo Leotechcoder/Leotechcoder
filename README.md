@@ -1,14 +1,24 @@
 <div> <h1 align = center> Hola, soy Leotechcoder 👋</h1><h2 align = center>Desarrollador Web</h2></div>
-<div align= center><img  height = 250px  width= 70% src="https://www.acuvue.es/sites/acuvue_es/files/styles/jjbos_adaptive_images_generic-mobile/public/taco-images/dryeye-effects_0.png?timestamp=1561939920" alt="imagen de fondo"></div>
+
 
 
 Sobre mi
 
-Soy un Desarrollador Web Junior con gran potencial y una gran capacidad para aprender rápidamente. Mi pasion por escribir codigo comenzo de la mano de automatizar circuitos con C++ en 2022. Y a mediados del 2024 comence a programar con Javascript, realizando mis primeras paginas estaticas maquetando con HTML y CSS. Mi pasion y objetivo es contribuir con codigo limpio y puro para la comunidad. Estoy abierto a escuchar opiniones y tambien a colaborar activamente. Si buscas a alguien para algun proyeco desafiante y que aporte energía y dedicación, ¡contactame!
+Soy Frontend developer, creo SPA desde cero y tambien hago Backend, creo apiREST con Node.js para completar mis proyectos. Si buscas a alguien para algun proyecto ¡contactame!. 
+Este es un resumen de lo que encontraras en mis proyectos:
 
-- 🔭 Actualmente estoy enfocandome al E-commerce y al control de existencias mediante SPA´s
-- 🌱 Estoy realizando un curso de FRONT END, puedes ver que mis repositorios publicos corresponden al mismo
-- 👯 Colaboro con otros programadores para aprender y crecer profesionalmente
+- 🔭 Proyectos frontend Vite, React y Tailwind CSS
+- 🌱 Proyectos frontend Vanilla JS, HTML Y CSS puro
+- ✨ React-router para manejo de rutas, ofreciendo la mejor navegabilidad para el usuario
+- 💬 Redux y su kit para el control total de los datos que viajan en la app, desde y hacia la app
+- 📫 Proyecto backend Node y Express para levantar un servidor
+- 🌱 Patron de diseño MVC con Clases JS
+- 👯 Autenticacion manual, mediante Google y Facebook
+- 😄 Control de ordenes, ventas y stock
+- ⚡ En criollo e-commerce desde el frontend con control de administrador desde el backend
+
+AQUI ABAJO  ||||||||
+            vvvvvvvv
 <!--
 **Leotechcoder/Leotechcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
