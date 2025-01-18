@@ -4,7 +4,7 @@
 
 Sobre mi
 
-Creo SPA's desde cero y tambien hago Backend, creo apiREST para completar mis proyectos. Hago integraciones con distintas aplicaciones. Si buscas a alguien para algun proyecto ¡contactame!. 
+Creo SPA's y RESTfull API desde cero. Hago integraciones a distintas aplicaciones. Si buscas a alguien para algun proyecto ¡contactame!. 
 Este es un resumen de lo que encontraras en mi repositorio:
 
 - 🔭 Proyectos frontend Vite, React y Tailwind CSS
