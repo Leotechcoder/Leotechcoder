@@ -17,8 +17,7 @@ Este es un resumen de lo que encontraras en mi repositorio:
 - 😄 Control de ordenes, ventas y stock
 - ⚡ En criollo e-commerce desde el frontend con control de administrador desde el backend
 
-AQUI ABAJO  ||||||||
-            vvvvvvvv
+AQUI ABAJO !!
 <!--
 **Leotechcoder/Leotechcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
