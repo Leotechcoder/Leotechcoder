@@ -1,11 +1,11 @@
-<div> <h1 align = center> Hola, soy Leotechcoder 👋</h1><h2 align = center>Desarrollador Web</h2></div>
+<div> <h1 align = center> Hola, soy Leotechcoder 👋</h1><h2 align = center>Frontend developer y backend</h2></div>
 
 
 
 Sobre mi
 
-Soy Frontend developer, creo SPA desde cero y tambien hago Backend, creo apiREST con Node.js para completar mis proyectos. Si buscas a alguien para algun proyecto ¡contactame!. 
-Este es un resumen de lo que encontraras en mis proyectos:
+Creo SPA's desde cero y tambien hago Backend, creo apiREST para completar mis proyectos. Hago integraciones con distintas aplicaciones. Si buscas a alguien para algun proyecto ¡contactame!. 
+Este es un resumen de lo que encontraras en mi repositorio:
 
 - 🔭 Proyectos frontend Vite, React y Tailwind CSS
 - 🌱 Proyectos frontend Vanilla JS, HTML Y CSS puro
