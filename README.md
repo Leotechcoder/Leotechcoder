@@ -1,4 +1,4 @@
-<div> <h1 align = center> Hola, soy Leotechcoder 👋</h1><h2 align = center>Frontend developer y backend</h2></div>
+<div> <h1 align = center> Hola, soy Leotechcoder 👋</h1><h2 align = center>Frontend full stack</h2></div>
 
 
 
