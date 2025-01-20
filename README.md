@@ -4,17 +4,17 @@
 
 Sobre mi
 
-Creo SPA's y RESTfull API desde cero. Hago integraciones a distintas aplicaciones. Si buscas a alguien para algun proyecto ¡contactame!. 
+Creo SPAs y RESTful API desde cero. Hago integraciones a distintas aplicaciones. Si buscas a alguien para algun proyecto ¡contactame!. 
 Este es un resumen de lo que encontraras en mi repositorio:
 
 - 🔭 Proyectos frontend Vite, React y Tailwind CSS
 - 🌱 Proyectos frontend Vanilla JS, HTML Y CSS puro
-- ✨ React-router para manejo de rutas, ofreciendo la mejor navegabilidad para el usuario
-- 💬 Redux y su kit para el control total de los datos que viajan en la app, desde y hacia la app
+- ✨ React-router para una navegación optimizada
+- 💬 Redux y su kit para el control eficiente de datos
 - 📫 Proyecto backend Node y Express para levantar un servidor
 - 🌱 Patron de diseño MVC con Clases JS
-- 👯 Autenticacion manual, mediante Google y Facebook
-- ⚡ Control de usuarios, ordenes de venta y stock de productos
+- 👯 Autenticacion manual y con proveedores como Google y Facebook
+- ⚡ Control de usuarios, ordenes de venta y stock
 - 😄 En criollo e-commerce desde el frontend con control de administrador desde el backend
 
 AQUI ABAJO !!
