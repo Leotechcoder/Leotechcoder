@@ -4,20 +4,20 @@
 
 Sobre mi
 
-Creo SPAs y RESTful API desde cero. Hago integraciones a distintas aplicaciones. Si buscas a alguien para algun proyecto ¡contactame!. 
-Este es un resumen de lo que encontraras en mi repositorio:
+Desarrollador full stack orientado a frontend, con experiencia en la creación de SPAs y APIs RESTful desde cero.
+Trabajo con un enfoque modular y escalable, integrando frontend moderno y backend robusto para lograr aplicaciones eficientes y mantenibles.
 
-- 🔭 Proyectos frontend Vite, React y Tailwind CSS
-- 🌱 Proyectos frontend Vanilla JS, HTML Y CSS puro
-- ✨ React-router para una navegación optimizada
-- 💬 Redux y su kit para el control eficiente de datos
-- 📫 Proyecto backend Node y Express para levantar un servidor
-- 🌱 Patron de diseño MVC con Clases JS
-- 👯 Autenticacion manual y con proveedores como Google y Facebook
-- ⚡ Control de usuarios, ordenes de venta y stock
-- 😄 En criollo e-commerce desde el frontend con control de administrador desde el backend
+Tecnologías y prácticas destacadas:
 
-AQUI ABAJO !!
+🔭 Frontend: React, Vite, Tailwind CSS y React Router
+🌱 Proyectos base en JavaScript Vanilla, HTML y CSS
+💬 Manejo global de estado con Redux Toolkit
+📫 Backend con Node.js y Express, bajo patrón MVC
+👯 Autenticación con JWT, Google OAuth y Facebook Login
+⚡ Módulos de control para usuarios, órdenes de venta y stock
+😄 Proyecto principal: E-commerce full stack, con dashboard administrativo en el frontend y API backend conectada a base de datos relacional
+
+📂 Revisá mis repositorios y el código fuente de cada implementación.
 <!--
 **Leotechcoder/Leotechcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
